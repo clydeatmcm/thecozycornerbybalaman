@@ -1,0 +1,3 @@
+Sitemap: https://thecozycornerbybalaman.vercel.app/sitemap.xml
+User-agent: *
+Disallow:
